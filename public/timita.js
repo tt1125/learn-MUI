@@ -1,0 +1,1 @@
+export const tomita="https://prcdn.freetls.fastly.net/release_image/128238/2/128238-2-3e1bd8e3d65f0e7829a7e9ac94fdc187-583x634.jpg?format=jpeg&auto=webp&quality=85&width=1950&height=1350&fit=bounds"
